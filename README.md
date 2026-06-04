@@ -1,5 +1,5 @@
   <div align="center">
 
-[atabook](https://reiju.atabook.org) 　　 [rentry](https://rentry.co/cradles)
+[atabook](https://todorokis.atabook.org) 　　 [rentry](https://rentry.co/cradles)
 
 wip
