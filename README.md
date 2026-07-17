@@ -3,8 +3,6 @@
 
   <div align="center"> 
 
-[atabook](https://weltita.atabook.org) 　　 [rentry](https://rentry.co/cradles) 　　 [straw](https://sae-itoshi.straw.page) 　　 [@title-town](https://github.com/title-town) 's perona !?!
-
+ ${\textsf{\color{#d2a682}       ⊹　 ︶︶}}$ 　 ${\textsf{\color{#d29e6d}   she}}$ ${\textsf{\color{#cf8f4b}   hers　　　　　}}$  　　  ${\textsf{\color{#cf8842}　　　ace}}$ ${\textsf{\color{#d17937}      /}}$ ${\textsf{\color{#d36b2f}      bi}}$ 　　 ${\textsf{\color{#d65a26}      bmf}}$ ${\textsf{\color{#d9491c}      !!}}$ 　  ${\textsf{\color{#d94017}       ︶︶　 ⊹}}$
 </div>
   
-${\textsf{\color{#989883}hiii}}$
