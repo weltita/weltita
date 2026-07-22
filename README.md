@@ -12,5 +12,5 @@
   <a href="https://weltita.atabook.org"> <img src="https://i.postimg.cc/RCH5GdHT/image-2026-07-17-013817077.png" alt="ata" width="100"> <a href="https://rentry.co/perolaw"> <img src="https://i.postimg.cc/qqnPRBTY/image-2026-07-17-013809469.png" alt="rentry" width="100"> <a href="https://sae-itoshi.straw.page"> <img src="https://i.postimg.cc/DyQV3z5z/image-2026-07-17-013827389.png" alt="straw" width="100"> <a href="https://github.com/title-town"> <img src="https://i.postimg.cc/26PprbP6/image-2026-07-17-013802337.png" alt="title town" width="100">
 
 <p align="center">
-  [c+her >u<](https://github.com/pt-walk-of-fame)
+[c+her !!](https://github.com/pt-walk-of-fame)
 </a>
