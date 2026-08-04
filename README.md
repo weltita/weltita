@@ -11,7 +11,7 @@
     <td width="40%" valign="top"> 
       <p> ${\textsf{\color{#cfb3a2}   ⊹　𝐌UALANI}}$ ${\textsf{\color{#c4a797}  ou}}$ ${\textsf{\color{#bb9e8e}  𝓢AE}}$
       <p> ${\textsf{\color{#ad8f80}  19yo}}$ ${\textsf{\color{#a28375}  introverted}}$ </p>
-      <p> ${\textsf{\color{#98786b}  taken}}$ ${\textsf{\color{#826255}  hispanic}}$ </p>
+      <p> ${\textsf{\color{#98786b}  taken}}$ ${\textsf{\color{#826255}  hispanic　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
