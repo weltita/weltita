@@ -31,7 +31,8 @@
     <td valign="top">
 ponytown titles that im in!! eek
 
-[cool players](https://github.com/pt-players)   [top c+her](https://github.com/pt-walk-of-fame)   [pt's perona](https://github.com/title-town)
+[cool players](https://github.com/pt-players)   [top c+her](https://github.com/pt-walk-of-fame)   [pt's perona](https://github.com/title-town)   [pts shirahoshi](https://github.com/charactersofpt)
+
   </tr>
 </table>
 <p align="center">
